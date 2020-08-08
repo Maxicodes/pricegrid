@@ -1,2 +1,2 @@
 # pricegrid
-https://maxicodes.github.io/pricegrid/gridindex.css
+https://maxicodes.github.io/pricegrid/gridindex.html
